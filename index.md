@@ -1,5 +1,4 @@
-Copy everything from the index.md file I created. Here's the complete content to copy and paste:
-markdown---
+
 layout: default
 title: UX Research Portfolio
 ---
