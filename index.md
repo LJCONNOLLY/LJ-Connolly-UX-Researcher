@@ -1,4 +1,6 @@
-
+---
+layout: default
+title: UX Research Portfolio
 ---
 
 <style>
